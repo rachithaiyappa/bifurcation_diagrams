@@ -1,7 +1,7 @@
 # bifurcation_diagrams
 This is an extension of Jitesh et al work on mesoscopic models of collective behaviour.
 
-[I'm an inline-style link](https://arxiv.org/pdf/1810.05368.pdf)
+[Here is the link to the paper](https://arxiv.org/pdf/1810.05368.pdf)
 
 The idea was to look at noise induced bifurcation diagrams of the models descrribed in the aforementioned paper.
 
